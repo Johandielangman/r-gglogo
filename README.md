@@ -126,7 +126,7 @@ gglogo(
 )
 ```
 
-![geom_boxplot](/output/boxplot.png)
+![geom_boxplot](/output/box.png)
 
 ### 📊 `geom_line` (time series)
 
