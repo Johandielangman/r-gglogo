@@ -73,12 +73,12 @@ ggplot(mpg, aes(x = class)) +
   theme(
     plot.background = element_rect(fill = "white"),
   ) +
-  gglogo(
-    logo_path = LOGO_PATH,
-    x_npc = 0.3,
-    y_npc = 0.9,
-    scale = 2.5
-  )
+gglogo(
+  logo_path = LOGO_PATH,
+  x_npc = 0.3,
+  y_npc = 0.9,
+  scale = 2.5
+)
 ggsave(file.path(OUTPUT_DIR, "bar.png"))
 
 # =====> Histogram
