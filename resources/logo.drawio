@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.12">
+  <diagram name="Page-1" id="zXI7sZhnzON4082iuuiE">
+    <mxGraphModel dx="1885" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BPDTtz2DpBlHTdC6gR3L-1" value="&lt;font size=&quot;1&quot; color=&quot;#be1e2d&quot; style=&quot;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Cedarville+Cursive&quot; face=&quot;Cedarville Cursive&quot;&gt;&lt;b style=&quot;font-size: 150px;&quot;&gt;Amazing Coffee Company&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="150" width="1110" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="BPDTtz2DpBlHTdC6gR3L-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=14;strokeColor=#BE1E2D;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cup;" parent="1" vertex="1">
+          <mxGeometry x="810" y="410" width="200" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
